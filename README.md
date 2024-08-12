@@ -6,7 +6,7 @@
 
 ## Description
 
-[Gateway Client](https://github.com/MonteEpress-microservices/client-gateway.git) Gateway Microservice TypeScript Repository.
+[Gateway Client](https://github.com/aurelio-mont/client-gateway) Microservice TypeScript Repository.
 
 ## Installation
 
